@@ -76,9 +76,9 @@ ___Any enchanted vouchers found in Lootboxes willbe IMMEDIATELY accredited to th
 
 Arachnix is a travelling merchant with access to all resources magical and practical. Arachnix will have the following items:
 
-> Food - You will need to eat to keep energy and stamina up!
-> Potions - Ranging from Health to Spectre, you can never go wrong with some Witchy brews
-> Equipment - Not gear, but definitely items that will assist in your adventures
+  - Food - You will need to eat to keep energy and stamina up!
+  - Potions - Ranging from Health to Spectre, you can never go wrong with some Witchy brews
+  - Equipment - Not gear, but definitely items that will assist in your adventures
 #
 
 #### WARNING
