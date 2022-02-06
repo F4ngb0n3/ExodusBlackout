@@ -163,10 +163,24 @@ Each Zombie/Zombie Villager kill will award the player with **15xp** and each ti
 ------------------------------------------------------
 ## Proximity Chat
 
+##### Text Chat
 Currently, Exodus has a built in **Proximity Chat** feature that will allow you to ONLY communicate via the chat with individuals that are near you. Should a player be near you and you send out a message of, "Hello?" -- that player will only see it if they are within a specific range. Be sure to use this!
 
-**UPDATE ::**
-> We are working on a Discord VC integration for a more immersive, proximity based chatting experience! Stay tuned!
+##### Voice Chat
+Exodus had an update! We now have a Proximity based Voice Chat for the server, that is now REQUIRED to play within the Exodus world. Fear not, it isn't as hard to set up as it sounds. Follow the steps below to get everyhting linked and all plugged in:
+
+> __NOTE__: Join the [Exodus Discord](https://discord.gg/RYwYEBQkwU) __FIRST__ and follow the necessary steps to receive the server address.
+
+##### After Joining the Discord
+1. Connect to the `exodus-igc-alpha` VC channel, and join the __Exodus:Blackout__ Minecraft server
+2. In the `exodus-igc-link` channel, type `*link [minecraft username]` replacing the obvious with the obvious.
+3. This will open a new DM; go to it and copy the `/link [CODE[` that is given to you
+4. In Minecraft, copy the `/link [CODE[` and paste it into the command input
+5. You will receive a message that saya something like, `"Your accounts are connected/linked"`
+6. Disconnect from the `exodus-igc-alpha` channel AND the Minecraft server
+7. Reconnect the VC and re-join the server!
+
+There may be some delay or it may seem as if it doesnt work, but give it a little bit and it will do as its needed. We also have a nifty setup that will make the immersion of the VC more realistic. This can be found within the `suggested-setup` channel within our Discord.
 #
 
 ------------------------------------------------------
