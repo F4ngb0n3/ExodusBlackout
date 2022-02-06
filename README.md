@@ -91,9 +91,9 @@ Arachnix is a travelling merchant with access to all resources magical and pract
 
 Quartermaster Munds is the King's Guard private Blacksmith and Merchant. Though, during the plague, his skills have been made available to everyone... Munds will have the following items for you:
 
-> Gear - Armor is a necessity! Ranger, Light, and Heavy Exodus gear can be bought here
-> Weapons - Swords, Axes, Bows... rack them kills up with quality weaponry!
-> Ammunition - Finest fletching in all of the realm!
+  - Gear - Armor is a necessity! Ranger, Light, and Heavy Exodus gear can be bought here
+  - Weapons - Swords, Axes, Bows... rack them kills up with quality weaponry!
+  - Ammunition - Finest fletching in all of the realm!
 #
 
 #### WARNING
