@@ -211,7 +211,7 @@ This is a __FREE__ asset for everyone to use! We like it that way :) but, we do 
 
 ------------------------------------------------------
 ## License & Credits
-
-> License: __MIT__ __(Free Software, Hell Yeah!)__
 > Exodus:Blackout World Build: __[datrealg00se](https://www.planetminecraft.com/member/datrealg00se/)__
+#
+> License: __MIT__ __(Free Software, Hell Yeah!)__
 #
