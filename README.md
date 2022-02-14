@@ -72,12 +72,10 @@ ___Any enchanted vouchers found in Lootboxes willbe IMMEDIATELY accredited to th
 
 ------------------------------------------------------
 ## Arachnix _(Merchant)_
-> _Right-Click his __SIGN__ not him_
+> _Right-Click him_
 
 Arachnix is a travelling merchant with access to all resources magical and practical. Arachnix will have the following items:
 
-  - Food - You will need to eat to keep energy and stamina up!
-  - Potions - Ranging from Health to Spectre, you can never go wrong with some Witchy brews
   - Equipment - Not gear, but definitely items that will assist in your adventures
 #
 
@@ -86,8 +84,8 @@ Arachnix is a travelling merchant with access to all resources magical and pract
 #
 
 ------------------------------------------------------
-## Quartermaster Munds _(Merchant)_
-> _Right-Click his __SIGN__ not him_
+## Quartermaster Munds _(Quartermaster/Blacksmith)_
+> _Right-Click him_
 
 Quartermaster Munds is the King's Guard private Blacksmith and Merchant. Though, during the plague, his skills have been made available to everyone... Munds will have the following items for you:
 
@@ -101,11 +99,58 @@ Quartermaster Munds is the King's Guard private Blacksmith and Merchant. Though,
 #
 
 ------------------------------------------------------
+## Exodus Castle Kitchen _(Cook)_
+> _Right-Click him_
+
+The Exodus Cook was recruited from the King's favorite pub. Located in the main kitchen of the castle, the cook will keep your hunger away and your speed and energy topped up! Make sure to visit him in the event your stamina starts to hurt!
+
+  - Food - Jerky, chicken, tack... the cook is the finest in the realm and the food is ALMOST amazing...
+#
+
+#### WARNING
+> __DO NOT__ click the items in your inventory while in a shop! You will purchase more of the item! __CLOSE THE SHOP__ before you try to move items around!!!
+#
+
+------------------------------------------------------
+## Expdus Alchemist _(Potions)_
+> _Right-Click her_
+
+The Exodus Alchemist is your one stop shop for all items health, regenration, and inccoculation. No matter the ailment, the Alchemist has the brew for you... including if you are unfortunate in the field and are bitten, the Alchemist has the `Antoxin Potion` to keep the Zombification away.
+
+  - Potions - Health, Regen, Pain relief... it is all here!
+  - Antoxin - Stop the spread of the plauge before it's to late!
+#
+
+#### WARNING
+> __DO NOT__ click the items in your inventory while in a shop! You will purchase more of the item! __CLOSE THE SHOP__ before you try to move items around!!!
+#
+
+------------------------------------------------------
+## Fumblforps _(Mage)_
+> _Right-Click him_
+
+Fumblforps is the Apprentice standing inbetween Stixor the Mad and complete annihilation of Exodus... no pressure. Fumblforps will sell you enchantments for your weapons to give that fighting edge back to the Travellers.
+
+  - Enchantments - Any weapon or gear enchantments, Fumblforps has them in stock!
+#
+
+#### WARNING
+> __DO NOT__ click the items in your inventory while in a shop! You will purchase more of the item! __CLOSE THE SHOP__ before you try to move items around!!!
+#
+
+------------------------------------------------------
 ## Deployment
 
 Once you are set with your items from Arachnix and Munds, you are ready to set weapon to undead flesh! This is simply done, from ANYWHERE in the world, by using the spell `/readyup`, or if you are an Adept magic user, `/rup` spell will also transport you.
 
 You will be randomly, RANDOMLY (*Fumblforps is an apprentice*) teleported to outside the safe zone, and will be on your own! Be cautious traveller!
+
+------------------------------------------------------
+## Infection
+
+Infection is a real thing! There is a probability that, should you get attacked by a monster, you will contract the plague! Your first move in the event that this happens; visit the Alchemist and get yourself the `Antoxin Potion` to reverse the effects!
+
+While the Alchemist and Fumblforps are unable to CURE the plague, they have devised a way to reverse the early onsets of the disease. The potion will rid your body of the sickness, giving you life back and removing the possibility of a painful demise!
 
 ------------------------------------------------------
 ## Emit
@@ -189,7 +234,7 @@ There may be some delay or it may seem as if it doesnt work, but give it a littl
 >> "Inevitably, you will die... but that is a sacrifice, I am willing to make"
 >> -- Lord Farquad
 
-These things happen, but don't worry! It is not the end. Well, not completely... When you are consumed, your energy will be transferred to the __Aether__; there Fumblforpes can summon your energy back into a physical form in the __Battle Lobby__ where you can continue your adventures! However, there is a catch...
+These things happen, but don't worry! It is not the end. Well, not completely... When you are consumed, your energy will be transferred to the __Aether__; there Fumblforpes can summon your energy back into a physical form in the __Courtyard__ where you can continue your adventures! However, there is a catch...
 
 Fumblforps is an Apprentice, and the ability for... well, his abilities are lacking in some aspects. Upon your death, a __Death Chest__ will drop where you were last consumed. This will remain for a shirt while, and ___MAY___ have your gear in it... it is somewhat difficult for the items to ALWAYS meet there goal. Thats what the __Rucksack__ is for!
 
@@ -199,7 +244,7 @@ This is still in its __BETA__ version! Should there be any questions, comments, 
 
 `EXPECT SOME BUGS`
 
-> The current version is 2.2.9
+> The current version is 2.3.0
 > Tested on Minecraft versions 1.18+
 > Used ONLY on the Exodus server; not a public plugin for use
 
